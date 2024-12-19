@@ -1,0 +1,43 @@
+name: money_manager
+description: A Flutter application for managing personal finances.
+
+# The version number adheres to semver.
+version: 1.0.0+1
+
+# This is used to build and compile the application.
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  web_socket_channel: ^2.1.0
+  fluttertoast: ^8.1.2
+  shared_preferences: ^2.0.17
+
+
+  # HTTP package for API calls
+  http: ^1.0.0
+
+  # State management for scalability (optional, for advanced usage)
+  provider: ^6.1.2
+
+  # Font Awesome icons for a polished UI
+  font_awesome_flutter: ^10.5.0
+
+  # Dependencies for UI enhancements
+  cupertino_icons: ^1.0.5
+
+  # Date formatting package
+  intl: ^0.18.0  # atau versi terbaru
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - images/hanan.jpg
+    - images/sam.png
+    - images/marsa.jpg
