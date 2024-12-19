@@ -1,0 +1,19 @@
+# Flutter Money Manager
+
+**Flutter Money Manager** adalah aplikasi yang dirancang untuk membantu pengguna mencatat dan memantau pemasukan serta pengeluaran mereka secara real-time. Dengan menggunakan aplikasi ini, pengguna dapat mengelola keuangan pribadi dengan lebih mudah dan efisien, serta membuat keputusan keuangan yang lebih baik berdasarkan data yang akurat dan up-to-date.
+
+### Fitur Utama:
+- **Pencatatan Pemasukan dan Pengeluaran:** Pengguna dapat dengan mudah mencatat setiap transaksi pemasukan dan pengeluaran.
+- **Real-time Monitoring:** Pantau arus kas secara langsung dengan data yang selalu terbarui.
+- **Kategori Transaksi:** Pengguna dapat mengelompokkan transaksi ke dalam kategori untuk memudahkan analisis keuangan.
+- **Fitur Mutasi:** Menyediakan laporan untuk melihat range transaksi dalam tanggal yang dipilih.
+- **Fitur Cek Mata Uang:** Menyediakan fitur untuk melihat data Dolar & Euro dalam Rupiah.
+
+Aplikasi ini dibangun menggunakan **Flutter** dan **MockAPI** untuk memastikan tampilan yang responsif dan pengalaman pengguna yang mulus di berbagai perangkat.
+
+### Tujuan:
+Program ini bertujuan untuk memfasilitasi pengguna dalam mencatat, memantau, dan menganalisis pengelolaan keuangan mereka secara real-time, sehingga mereka dapat mengambil keputusan keuangan yang lebih baik dan lebih bijaksana.
+
+---
+
+Anda dapat menyesuaikan deskripsi ini dengan menambahkan informasi spesifik terkait fitur atau teknologi yang digunakan dalam aplikasi Anda.
